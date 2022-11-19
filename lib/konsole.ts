@@ -97,6 +97,4 @@ class Konsole {
  */
 const konsole = new Konsole();
 
-export default konsole;
 export { konsole, Konsole };
-console.log();
