@@ -1,6 +1,6 @@
 {
   "name": "node-konsole",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Powerful zero dependency and single import console logging tool for Node.js",
   "main": "./dist/index.js",
   "type": "module",

@@ -16,6 +16,9 @@ class Konsole {
     this._colors = Object.assign(
       {
         // utils
+        warn: "⚠",
+        error: "ⓧ",
+        info: "ⓘ",
         clear: "\x1b[2J",
         r: "\x1b[0m",
         reset: "\x1b[0m",
